@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Stardew Devil Fruit",
+  "Author": "Arctikoi",
+  "Version": "0.1.0",
+  "Description": "Adds devil fruits and their powers!",
+  "UniqueID": "Arctikoi.DevilFruitMod",
+  "EntryDll": "DevilFruitMod.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
